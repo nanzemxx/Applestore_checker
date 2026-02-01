@@ -1,0 +1,5 @@
+xchina.co##div.push-slider:nth-child(3)
+xchina.co##div.push-slider:nth-child(2)
+xchina.co##div.push-bottom-container:nth-child(4)
+xchina.co##div.swal2-container.swal2-center.swal2-backdrop-show:last-child > div.swal2-popup.swal2-modal.swal2-show
+xchina.co##div.swal2-container.swal2-center.swal2-backdrop-show:last-child
