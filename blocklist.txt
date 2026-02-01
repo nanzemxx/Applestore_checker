@@ -1,3 +1,7 @@
+! Title: Applestore_checker blocklist
+! Description: Custom cosmetic rules (one rule per line)
+! Expires: 1 day
+
 xchina.co##div.push-slider:nth-child(3)
 xchina.co##div.push-slider:nth-child(2)
 xchina.co##div.push-bottom-container:nth-child(4)
